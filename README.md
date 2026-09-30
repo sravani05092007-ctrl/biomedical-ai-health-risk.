@@ -18,19 +18,23 @@ and **machine learning**, and helps users find hospitals, blood banks, and offic
 Early awareness of respiratory health risks and access to appropriate healthcare information can be difficult for many people. Users may need help understanding their risk indicators and finding reliable healthcare resources.
 
 ## Objectives
+
 1. Select the most useful clinical features with a Genetic Algorithm.
 2. Predict risk with an ML model and a fuzzy inference system, then combine them.
 3. Provide a website with a risk form and a hospital / blood bank / transplant service finder.
 
 ##Target Users
+
 People seeking preliminary respiratory health-risk awareness.
 Individuals looking for understandable information about their health indicators.
 Users who need links to reliable healthcare resources
 
 ##Proposed Solution
+
 This project uses a machine-learning model to provide an interpretable respiratory health-risk estimate based on the supported input features. It presents the result in an understandable format and directs users toward relevant official healthcare resources.
 
 ##Key Features
+
 Health-related input collection and validation.
 Machine-learning-based risk estimation.
 Understandable presentation of prediction results.
