@@ -13,14 +13,46 @@ and **machine learning**, and helps users find hospitals, blood banks, and offic
 | sravya | Fuzzy system |
 | all members | Website & resources |
 
-## Problem statement
-Early risk awareness and quick access to the right care are hard for many users. This project gives an interpretable risk estimate
-and connects users to official services.
+## Problem Statement
+
+Early awareness of respiratory health risks and access to appropriate healthcare information can be difficult for many people. Users may need help understanding their risk indicators and finding reliable healthcare resources.
 
 ## Objectives
 1. Select the most useful clinical features with a Genetic Algorithm.
 2. Predict risk with an ML model and a fuzzy inference system, then combine them.
 3. Provide a website with a risk form and a hospital / blood bank / transplant service finder.
+
+##Target Users
+People seeking preliminary respiratory health-risk awareness.
+Individuals looking for understandable information about their health indicators.
+Users who need links to reliable healthcare resources
+
+##Proposed Solution
+This project uses a machine-learning model to provide an interpretable respiratory health-risk estimate based on the supported input features. It presents the result in an understandable format and directs users toward relevant official healthcare resources.
+
+##Key Features
+Health-related input collection and validation.
+Machine-learning-based risk estimation.
+Understandable presentation of prediction results.
+Guidance and links to official healthcare resources.
+Clear explanation of the limitations of AI predictions.
+
+##Expected Impact
+
+The application aims to improve preliminary risk awareness and help users identify appropriate next steps for seeking healthcare information.
+
+##Limitations
+
+This application is an awareness tool, not a medical diagnostic system. Predictions may be inaccurate and should not replace professional medical advice.
+
+##Technology Stack
+Python
+Streamlit
+Machine Learning
+Relevant data-processing libraries
+How It Addresses the Problem
+
+The application connects health-related inputs to an understandable risk estimate and provides healthcare resource links, addressing both preliminary risk awareness and access to reliable information.
 
 ## Architecture
 ```
