@@ -8,10 +8,10 @@ and **machine learning**, and helps users find hospitals, blood banks, and offic
 ## Team
 | Name | Role |
 |---|---|
-| _add name_ | Data & ML |
-| _add name_ | Genetic Algorithm |
-| _add name_ | Fuzzy system |
-| _add name_ | Website & resources |
+| sravani | Data & ML |
+| saritha | Genetic Algorithm |
+| sravya | Fuzzy system |
+| all members | Website & resources |
 
 ## Problem statement
 Early risk awareness and quick access to the right care are hard for many users. This project gives an interpretable risk estimate
