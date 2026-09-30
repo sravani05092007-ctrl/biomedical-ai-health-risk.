@@ -1,0 +1,15 @@
+Gen 00 | best=0.7077 | avg=0.6357
+Gen 01 | best=0.7325 | avg=0.6834
+Gen 02 | best=0.7325 | avg=0.6898
+Gen 03 | best=0.7325 | avg=0.7003
+Gen 04 | best=0.7325 | avg=0.7032
+Gen 05 | best=0.7325 | avg=0.6962
+Gen 06 | best=0.7325 | avg=0.7235
+Gen 07 | best=0.7325 | avg=0.7305
+Gen 08 | best=0.7325 | avg=0.7235
+Gen 09 | best=0.7325 | avg=0.7246
+Gen 10 | best=0.7619 | avg=0.7297
+Gen 11 | best=0.7619 | avg=0.7179
+Gen 12 | best=0.7619 | avg=0.7372
+Gen 13 | best=0.7619 | avg=0.7374
+Gen 14 | best=0.7619 | avg=0.7468
